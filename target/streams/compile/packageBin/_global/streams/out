@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/sudoku-solver_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Board$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Board$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Board.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Board.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Board.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Board.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Board$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Board$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Board$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Board$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tile.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Tile.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Tile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelcr/programming/scala/sudoku-solver/target/scala-3.1.1/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
