@@ -3,14 +3,15 @@ import javax.print.SimpleDoc
 type Row = List[Tile]
 
 class Tile(val coords: (Int, Int), val num: Int) {
+  assert(num < 10, "A tile cannot contain a value greater than 9!")
   def update(x: Int): Tile = Tile(coords, x)
 }
 
 class Board(rows: List[Row]) {
-  //assert(rows.length == 9, "The board must be 9x9")
-  //assert(rows.length == rows.head.length, "The board must be square")
+  assert(rows.length == 9, "The board must be 9x9")
+  assert(rows.length == rows.head.length, "The board must be square")
 
-  override def toString =
+  override def toString: String =
     rows.flatMap(row =>
       row.flatMap(tile => f"${tile.num}") ++ "\n"
     ).toString()
